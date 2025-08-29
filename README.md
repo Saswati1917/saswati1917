@@ -35,13 +35,6 @@
 
 ---
 
-## 🚀 Projects Highlight
-
-🔹 [Insurance Performance Dashboard](#) – MySQL + Power BI + Excel to analyze KPIs & customer sentiment  
-🔹 [Real Estate Power BI Dashboard](#) – Google BigQuery + Power BI to track performance insights  
-🔹 [Tata Data Visualisation Simulation (Forage)](#) – Created executive visuals & business insights  
-
----
 
 ## ✨ Certifications
 - Complete Data Analyst Bootcamp – Udemy  
