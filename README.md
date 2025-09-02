@@ -39,7 +39,7 @@
 ## ✨ Certifications
 - Complete Data Analyst Bootcamp – Udemy  
 - Tata Data Visualisation Job Simulation – Forage  
-
+- Deloitte Australia-Data Analytics Job Simulation - Forage
 ---
 
 ## 🤝 Let's Connect  
